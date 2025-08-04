@@ -8,13 +8,13 @@ This task demonstrates how to identify open ports within a local network using a
 
 - Nmap – for port scanning
 - Wireshark – for analyzing network traffic
-- Local network IP range (e.g., 192.168.1.0/24)
+- Local network IP range (e.g., 192.168.29.0/24)
 
 ## Process Overview
 
 ### 1. Identify Local IP Range
 
-The local IP address was identified to determine the network range (e.g., 192.168.1.0/24). This range was used for scanning all devices connected within the same subnet.
+The local IP address was identified to determine the network range (e.g., 192.168.29.0/24). This range was used for scanning all devices connected within the same subnet.
 
 ### 2. Run Stealth Scan with Nmap
 
@@ -43,4 +43,5 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 ```
 
 ![Wireshark Scan](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/wireshark_filter.png)
+
 
