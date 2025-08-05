@@ -58,12 +58,12 @@ As part of the Cyber Security Internship Task 2, I analyzed a phishing email sam
 > **[IMPORTANT] Your wallet has been Blocked**
 
 ### 📝 Sample Screenshot
-Included:
--![Email Header](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%202/Phishing_1.png)
+
+![Email Header](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%202/Phishing_1.png)
 
 Spoofed MetaMask sender using suspicious domain kommunal.se
 
--![Email Body](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%202/Phishing_2.PNG)
+![Email Body](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%202/Phishing_2.PNG)
 
 This email is a phishing attempt, using a sense of urgency and threats of losing funds to pressure users into clicking a suspicious "upgrade" link. Legitimate cryptocurrency wallet updates are performed directly within the application and never require you to follow a link from an email.
 
@@ -96,3 +96,4 @@ This task helped me understand how phishing emails work, how to trace spoofed do
 
 
 ---
+
