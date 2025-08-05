@@ -63,7 +63,7 @@ Included:
 
 Spoofed MetaMask sender using suspicious domain kommunal.se
 
--![Email Body](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%202/Phishing_2.png)
+-![Email Body](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%202/Phishing_2.PNG)
 
 This email is a phishing attempt, using a sense of urgency and threats of losing funds to pressure users into clicking a suspicious "upgrade" link. Legitimate cryptocurrency wallet updates are performed directly within the application and never require you to follow a link from an email.
 
@@ -90,15 +90,9 @@ This email is a phishing attempt, using a sense of urgency and threats of losing
 
 ---
 
-## 📎 Screenshots
-
-- `screenshot-email-view.png` – User view of phishing email
-- `screenshot-email-header.png` – Header showing spoofed sender
-
----
-
 ## 💡 Learning Outcome
 
 This task helped me understand how phishing emails work, how to trace spoofed domains via headers, and how social engineering is used to trick users into clicking malicious links. It also taught me how to verify authenticity using tools like SPF/DKIM checks and header analyzers.
+
 
 ---
