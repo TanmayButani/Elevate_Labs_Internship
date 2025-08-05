@@ -28,7 +28,7 @@ nmap -sS 192.168.29.0/24
 
 **Nmap Scan Result:**
 
-![Nmap Scan](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/nmap_scan.png)
+![Nmap Scan](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%201/nmap_scan.png)
 
 ### 3. Analyze Traffic with Wireshark
 
@@ -42,6 +42,7 @@ Filter used :
 tcp.flags.syn == 1 && tcp.flags.ack == 0
 ```
 
-![Wireshark Scan](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/wireshark_filter.png)
+![Wireshark Scan](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%201/wireshark_filter.png)
+
 
 
