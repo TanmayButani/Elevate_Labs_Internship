@@ -16,7 +16,7 @@ As part of the Cyber Security Internship Task 2, I analyzed a phishing email sam
 
 Spoofed MetaMask sender using suspicious domain kommunal.se
 
-![Email Body](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%202/Phishing_2.PNG)
+![Email Body](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%202/Phishing_2.png)
 
 This email is a phishing attempt, using a sense of urgency and threats of losing funds to pressure users into clicking a suspicious "upgrade" link. Legitimate cryptocurrency wallet updates are performed directly within the application and never require you to follow a link from an email.
 
