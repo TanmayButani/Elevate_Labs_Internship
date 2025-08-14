@@ -32,7 +32,7 @@ The goal of this task was to learn how to identify potentially harmful browser e
 - **Removed extensions:** None  
 
 **Screenshot:**  
-![Extensions Screenshot](3da86b8f-5163-436b-b7c8-701c7559df90.png)
+![Extensions Screenshot](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%207/Extension.png)
 
 ---
 
