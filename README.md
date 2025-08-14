@@ -14,3 +14,5 @@ This repository contains the following tasks:
 - [Task - 5](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%205/task5.md)
 #### Click For Task 6
 - [Task - 6](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%206/task6.md)
+#### Click For Task 7
+- [Task - 7](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%207/task7.md)
