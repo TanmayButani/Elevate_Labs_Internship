@@ -49,9 +49,9 @@ You can also launch the Tkinter-based GUI tool.
 - Enter personal inputs and click **Generate Wordlist** to create and save a `.txt` wordlist.  
 
 **GUI main window:** 
-
-![GUI1](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_1.PNG)
-
+<p align="center">
+  <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_1.PNG" alt="GUI main window" width="600"/>
+</p>
 📸 *Screenshot: GUI password strength check*  
 📸 *Screenshot: GUI wordlist generator save dialog*  
 
