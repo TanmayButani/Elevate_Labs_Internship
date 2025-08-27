@@ -48,8 +48,10 @@ You can also launch the Tkinter-based GUI tool.
 - Enter a password and click **Check Strength** to view score, crack time, and feedback.  
 - Enter personal inputs and click **Generate Wordlist** to create and save a `.txt` wordlist.  
 
-*GUI main window:* 
+**GUI main window:** 
+
 ![GUI1](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_1.PNG)
+
 📸 *Screenshot: GUI password strength check*  
 📸 *Screenshot: GUI wordlist generator save dialog*  
 
