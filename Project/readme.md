@@ -54,15 +54,21 @@ You can also launch the Tkinter-based GUI tool.
 <p align="center">
   <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_1.PNG" alt="GUI main window" width="600"/>
 </p>
+
 GUI password strength check : 
+
 <p align="center">
   <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_2.PNG" alt="GUI main window" width="600"/>
 </p>
+
 GUI wordlist generator save dialog :
+
 <p align="center">
   <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_3.PNG" alt="GUI main window" width="600"/>
 </p>
+
 Saved WordList :
+
 <p align="center">
   <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_Result.PNG" alt="GUI main window" width="600"/>
 </p>
