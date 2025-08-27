@@ -41,7 +41,9 @@ You can also generate a custom wordlist by entering personal inputs such as a na
 
 ![Generator](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/CLI_PWD_Generator.PNG)
 
-![Result](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/CLI_PWD_Generator_Output.PNG)
+<p align="center">
+  <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/CLI_PWD_Generator_Output.PNG" alt="GUI main window" width="600"/>
+</p>
 
 ### GUI Mode  
 You can also launch the Tkinter-based GUI tool.  
@@ -52,8 +54,18 @@ You can also launch the Tkinter-based GUI tool.
 <p align="center">
   <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_1.PNG" alt="GUI main window" width="600"/>
 </p>
-📸 *Screenshot: GUI password strength check*  
-📸 *Screenshot: GUI wordlist generator save dialog*  
+**GUI password strength check:** 
+<p align="center">
+  <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_2.PNG" alt="GUI main window" width="600"/>
+</p>
+**GUI wordlist generator save dialog:**
+<p align="center">
+  <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_3.PNG" alt="GUI main window" width="600"/>
+</p>
+**Saved WordList:**
+<p align="center">
+  <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_Result.PNG" alt="GUI main window" width="600"/>
+</p>
 
 ## 📊 Deliverables  
 - `password_analyzer.py` – CLI tool  
