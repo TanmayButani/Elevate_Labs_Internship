@@ -73,22 +73,8 @@ Saved WordList :
   <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/GUI_Result.PNG" alt="GUI main window" width="600"/>
 </p>
 
-## 📊 Deliverables  
-- `password_analyzer.py` – CLI tool  
-- `password_gui.py` – GUI tool  
-- `requirements.txt` – Dependencies  
-- `custom_wordlist.txt` – Example generated wordlist  
-- `Password_Strength_Analyzer_Report.pdf` – Internship report  
-- `README.md` – Documentation  
-
 ## 💡 Learning Outcomes  
 Through this project I learned how to analyze password entropy using zxcvbn, how weak passwords can be exploited using wordlists, how to generate attack-specific wordlists from user details, and how to build both CLI and GUI tools in Python for cybersecurity tasks.  
 
-## 📎 Screenshots to Include  
-- Setup showing dependencies installed  
-- CLI password analysis result  
-- Generated wordlist file  
-- GUI main window  
-- GUI password strength check result  
-- GUI wordlist generator save dialog  
+
 
