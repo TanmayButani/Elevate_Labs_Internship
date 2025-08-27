@@ -20,9 +20,6 @@ This project is part of my Cyber Security Internship. It demonstrates how to eva
 - Clone the repository and move into the project folder  
 - Create and activate a virtual environment
   ```bash
-  cd "C:\Users\butan\OneDrive\Desktop\ElevateLabs Internship\Project\password-analyzer"
-  ```
-  ```bash
   python -m venv .venv
   .venv\Scripts\activate.bat
   ```
@@ -30,8 +27,7 @@ This project is part of my Cyber Security Internship. It demonstrates how to eva
   ```bash
   python.exe -m pip install --upgrade pip
   pip install -r requirements.txt
-  ```  
-📸 *Screenshot: Setup and installation*  
+  ```    
 
 ## 🚀 Usage  
 
