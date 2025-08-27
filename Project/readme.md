@@ -35,11 +35,13 @@ This project is part of my Cyber Security Internship. It demonstrates how to eva
 Run the analyzer by entering a password in the terminal to get a strength report.  
 You will see details like score, estimated guesses, crack time, and feedback.  
 
-📸 *Screenshot: CLI password analysis result*  
+![Analyzer](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/CLI_PWD_Analyzer.PNG) 
 
 You can also generate a custom wordlist by entering personal inputs such as a name, year, or pet name. A `.txt` file will be created with variations of these inputs.  
 
-📸 *Screenshot: Generated wordlist output file*  
+![Generator](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/CLI_PWD_Generator.PNG)
+
+![Result](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Project/CLI_PWD_Generator_Output.PNG)
 
 ### GUI Mode  
 You can also launch the Tkinter-based GUI tool.  
