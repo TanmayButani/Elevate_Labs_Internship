@@ -52,13 +52,19 @@ This task demonstrates how to set up and use a VPN for secure browsing, verify I
 - Browsing speed was slightly faster without VPN.  
 
 📷 **IP after Disconnecting VPN**  
-![VPN Disconnected](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture4.PNG)  
+<p align="center">
+  <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture4.PNG" width="600"/>
+</p>  
 
 📷 **Browsing Speed with VPN**  
-![VPN Speed](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture3.PNG)  
+<p align="center">
+  <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture3.PNG" width="600"/>
+</p>  
 
 📷 **Browsing Speed without VPN**  
-![VPN Speed without VPN](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture5.PNG)  
+<p align="center">
+  <img src="https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture5.PNG" width="600"/>
+</p>    
 
 ---
 
