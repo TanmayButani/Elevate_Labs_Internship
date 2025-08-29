@@ -11,17 +11,11 @@ This task demonstrates how to set up and use a VPN for secure browsing, verify I
 - I chose **ProtonVPN (Free Tier)** as my VPN service.  
 - Downloaded it from [https://protonvpn.com](https://protonvpn.com) and installed the client.  
 
-📷 *Screenshot:*  
-![VPN Installation](screenshots/step1_install.png)  
-
 ---
 
 ### 2. Sign Up & Log In  
 - Created a free ProtonVPN account.  
 - Logged into the VPN client with my credentials.  
-
-📷 *Screenshot:*  
-![Login Screen](screenshots/step2_login.png)  
 
 ---
 
@@ -30,7 +24,7 @@ This task demonstrates how to set up and use a VPN for secure browsing, verify I
 - VPN status changed to **Connected**.  
 
 📷 *Screenshot:*  
-![VPN Connected](screenshots/step3_connected.png)  
+![VPN Connected](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture1.PNG)  
 
 ---
 
@@ -39,7 +33,7 @@ This task demonstrates how to set up and use a VPN for secure browsing, verify I
 - Confirmed that the IP address was **different** from my normal one.  
 
 📷 *Screenshot:*  
-![IP Changed](screenshots/step4_ipchanged.png)  
+![IP Changed](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture2.PNG)  
 
 ---
 
@@ -48,7 +42,7 @@ This task demonstrates how to set up and use a VPN for secure browsing, verify I
 - Confirmed that traffic was encrypted by checking the **padlock icon 🔒** in the browser.  
 
 📷 *Screenshot:*  
-![Traffic Encrypted](screenshots/step5_encrypted.png)  
+![Traffic Encrypted](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture6.PNG)  
 
 ---
 
@@ -57,8 +51,14 @@ This task demonstrates how to set up and use a VPN for secure browsing, verify I
 - Checked IP again → reverted back to my original ISP IP.  
 - Browsing speed was slightly faster without VPN.  
 
-📷 *Screenshot:*  
-![VPN Disconnected](screenshots/step6_disconnected.png)  
+📷 *IP after Disconnecting VPN:*  
+![VPN Disconnected](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture4.PNG)  
+
+📷 *Browsing Speed with VPN:*
+![VPN Speed](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture3.PNG)
+
+📷 *Browsing Speed without VPN:*
+![VPN Speed without VPN](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture5.PNG)
 
 ---
 
@@ -95,6 +95,3 @@ VPN usually reduces speed slightly due to encryption overhead.
 - Understood benefits, protocols, and limitations of VPNs.  
 
 ---
-
-## 📂 Repo Structure  
-
