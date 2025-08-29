@@ -51,14 +51,14 @@ This task demonstrates how to set up and use a VPN for secure browsing, verify I
 - Checked IP again → reverted back to my original ISP IP.  
 - Browsing speed was slightly faster without VPN.  
 
-📷 **IP after Disconnecting VPN:**  
+📷 **IP after Disconnecting VPN**  
 ![VPN Disconnected](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture4.PNG)  
 
-📷 **Browsing Speed with VPN:**
-![VPN Speed](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture3.PNG)
+📷 **Browsing Speed with VPN**  
+![VPN Speed](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture3.PNG)  
 
-📷 **Browsing Speed without VPN:**
-![VPN Speed without VPN](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture5.PNG)
+📷 **Browsing Speed without VPN**  
+![VPN Speed without VPN](https://github.com/TanmayButani/Elevate_Labs_Internship/blob/main/Task%208/Capture5.PNG)  
 
 ---
 
